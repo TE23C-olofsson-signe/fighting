@@ -1,0 +1,14 @@
+c:\Users\signe.olofsson\Documents\prog1\fighting\fighting\bin\Debug\net8.0\fighting.exe
+c:\Users\signe.olofsson\Documents\prog1\fighting\fighting\bin\Debug\net8.0\fighting.deps.json
+c:\Users\signe.olofsson\Documents\prog1\fighting\fighting\bin\Debug\net8.0\fighting.runtimeconfig.json
+c:\Users\signe.olofsson\Documents\prog1\fighting\fighting\bin\Debug\net8.0\fighting.dll
+c:\Users\signe.olofsson\Documents\prog1\fighting\fighting\bin\Debug\net8.0\fighting.pdb
+c:\Users\signe.olofsson\Documents\prog1\fighting\fighting\obj\Debug\net8.0\fighting.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\signe.olofsson\Documents\prog1\fighting\fighting\obj\Debug\net8.0\fighting.AssemblyInfoInputs.cache
+c:\Users\signe.olofsson\Documents\prog1\fighting\fighting\obj\Debug\net8.0\fighting.AssemblyInfo.cs
+c:\Users\signe.olofsson\Documents\prog1\fighting\fighting\obj\Debug\net8.0\fighting.csproj.CoreCompileInputs.cache
+c:\Users\signe.olofsson\Documents\prog1\fighting\fighting\obj\Debug\net8.0\fighting.dll
+c:\Users\signe.olofsson\Documents\prog1\fighting\fighting\obj\Debug\net8.0\refint\fighting.dll
+c:\Users\signe.olofsson\Documents\prog1\fighting\fighting\obj\Debug\net8.0\fighting.pdb
+c:\Users\signe.olofsson\Documents\prog1\fighting\fighting\obj\Debug\net8.0\fighting.genruntimeconfig.cache
+c:\Users\signe.olofsson\Documents\prog1\fighting\fighting\obj\Debug\net8.0\ref\fighting.dll
